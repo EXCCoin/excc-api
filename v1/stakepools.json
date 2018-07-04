@@ -1,8 +1,8 @@
 [
     {
-      Host: "http://18.130.16.223:8000",
-      Network: "mainnet",
-      APIEnabled: true,
-      APIVersionsSupported: [1, 2]
+      "Host": "http://18.130.16.223:8000",
+      "Network": "mainnet",
+      "APIEnabled": true,
+      "APIVersionsSupported": [1, 2]
     }
 ]
