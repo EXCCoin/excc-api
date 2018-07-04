@@ -1,0 +1,7 @@
+[
+    {
+      Host: "http://18.130.16.223:8000",
+      Network: "mainnet",
+      APIVersionsSupported: [1, 2]
+    }
+]
