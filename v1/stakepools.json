@@ -1,6 +1,6 @@
 [
   {
-    "Host": "http://stakepool.excc.co/",
+    "Host": "https://stakepool.excc.co/",
     "Network": "mainnet",
     "APIEnabled": true,
     "APIVersionsSupported": [1, 2]
