@@ -6,7 +6,7 @@
     "APIVersionsSupported": [1, 2]
   },
   {
-    "Host": "https://staks.excc.scecf.org/",
+    "Host": "https://stake.excc.scecf.org/",
     "Network": "mainnet",
     "APIEnabled": true,
     "APIVersionsSupported": [1, 2]
