@@ -1,0 +1,7 @@
+[
+  {
+    "Host": "https://testnet-stakepool.excc.co/",
+    "APIEnabled": true,
+    "APIVersionsSupported": [1, 2]
+  }
+]
