@@ -1,0 +1,12 @@
+[
+  {
+    "Host": "https://stakepool.excc.co/",
+    "APIEnabled": true,
+    "APIVersionsSupported": [1, 2]
+  },
+  {
+    "Host": "https://stake.excc.scecf.org/",
+    "APIEnabled": true,
+    "APIVersionsSupported": [1, 2]
+  }
+]
