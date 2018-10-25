@@ -4,7 +4,7 @@
     "APIEnabled": true,
     "Network": "testnet",
     "APIVersionsSupported": [1, 2]
-  }
+  },
   {
     "Host": "http://192.168.11.12:8000/",
     "APIEnabled": true,
