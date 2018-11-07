@@ -12,7 +12,7 @@
     "APIVersionsSupported": [1, 2]
   },
   {
-    "Host": "http://excc.stakehub.pro/",
+    "Host": "https://excc.stakehub.pro/",
     "APIEnabled": true,
     "Network": "mainnet",
     "APIVersionsSupported": [1, 2]
