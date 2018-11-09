@@ -16,5 +16,5 @@
     "APIEnabled": true,
     "Network": "mainnet",
     "APIVersionsSupported": [1, 2]
-  },
+  }
 ]
