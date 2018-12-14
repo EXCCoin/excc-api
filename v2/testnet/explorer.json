@@ -1,0 +1,8 @@
+{
+  "address": "https://testnet-explorer.excc.co",
+  "slugs": {
+    "status": "api/status",
+    "block": "block",
+    "transaction": "tx"
+  }
+}
