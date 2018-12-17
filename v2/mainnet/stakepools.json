@@ -1,0 +1,20 @@
+[
+  {
+    "Host": "https://stakepool.excc.co/",
+    "APIEnabled": true,
+    "Network": "mainnet",
+    "APIVersionsSupported": [1, 2]
+  },
+  {
+    "Host": "https://stake.excc.scecf.org/",
+    "APIEnabled": true,
+    "Network": "mainnet",
+    "APIVersionsSupported": [1, 2]
+  },
+  {
+    "Host": "https://excc.stakehub.pro/",
+    "APIEnabled": true,
+    "Network": "mainnet",
+    "APIVersionsSupported": [1, 2]
+  }
+]

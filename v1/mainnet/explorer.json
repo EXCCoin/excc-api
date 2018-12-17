@@ -1,7 +1,7 @@
 {
-  "address": "https://explorer.excc.co",
+  "address": "https://api.excc.co/v1/mainnet/",
   "slugs": {
-    "status": "api/status",
+    "status": "status.json",
     "block": "block",
     "transaction": "tx"
   }
